@@ -1,0 +1,7 @@
+Research question - something we can explain to our gradma ^^ Example - sky is blue. 
+
+Hypothesis - Something which is/or might be resuls of data analythis. Example - Sky will be bluer after rain on previous day. 
+
+
+More detailed and realistic example of hypothesis:
+ Hate speech of society might be {and here we can use Hate speech keywords|frequesncy of hate speech| Some other property of it}, which {some sentence which is easy to proove} 
