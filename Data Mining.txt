@@ -1,0 +1,19 @@
+twitter api:
+
+https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets
+
+additional help:
+
+https://gist.github.com/yanofsky/5436496
+
+http://adilmoujahid.com/posts/2014/07/twitter-analytics/
+
+facebook scraping is usually page based or a user i have found facebook scrapers but then it is not really possible to see all the posts made
+
+Fb scraper:
+
+https://github.com/rugantio/fbcrawl lets discuss about it
+
+youtube:
+
+https://www.scrapestorm.com/tutorial/how-to-scrape-video-information-from-youtube/
