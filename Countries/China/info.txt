@@ -12,3 +12,13 @@ Sources of keywords:
 https://citizenlab.ca/2014/12/repository-censored-sensitive-chinese-keywords-13-lists-9054-terms/
 https://blockedonweibo.tumblr.com/tagged/blockedword
 https://china-chats.net/keywords/
+
+
+Source of Chinese censorship level info: 
+https://www.pri.org/stories/2016-06-03/how-china-has-censored-words-relating-tiananmen-square-anniversary
+https://en.wikipedia.org/wiki/Overseas_censorship_of_Chinese_issues
+https://www.businessinsider.com/words-china-banned-from-search-engines-after-tiananmen-square-2014-6?r=DE&IR=T
+https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_in_Asia
+https://en.wikipedia.org/wiki/Great_Firewall
+https://en.wikipedia.org/wiki/Golden_Shield_Project
+https://en.wikipedia.org/wiki/Internet_censorship_in_China
