@@ -5,8 +5,8 @@ spreading 'bad popular culture', 'non-mainstream view of love and marriage', 'th
 is applied to political topics - nobody can speak about government in bad contest, as well as discuss their historical mistakes. Content under this topic is forbidden since 
 it "breaks laws or spreads superstition or obscenity", or that "may jeopardize state security and disrupt social stability".
 
-While there are many thousand blocked keywords available online for China, we have tried to peek up the most popular once (for which probability of occurance is
- higher in random Tweet/Post). 
+While there are many thousand blocked keywords available online for China, we have tried to peek up the most popular once (Keywords are chosen
+ based on their popularity and probability to appear in random posts of social media. ). 
 
 Sources of keywords: 
 https://citizenlab.ca/2014/12/repository-censored-sensitive-chinese-keywords-13-lists-9054-terms/
