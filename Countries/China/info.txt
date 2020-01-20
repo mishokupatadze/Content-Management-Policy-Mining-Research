@@ -1,12 +1,14 @@
-﻿Forbidden web content includes: 
-pornography(any kind of); 
-non medical drugs(any kind of);
-gambling(any kind of); 
-calls for extremist activities, riots, or unsanctioned protests; 
-information about online censorship; 
-critisicing government, or makins statements in the following issues: 
-* Freedom of speech
-* human rights 
-* Facts which include political mistakes
-* Judicial independence
+﻿The list of sensitive topics is very long in China. "pornography, violence, bloody content, horror, gambling, defrauding, Internet rumor, feudal and superstition,
+ hurl invectives, parody, threat, 'Title Party', hate and inciting" - this is only short but clear list of globally censored content. But there is another list,
+ which contains ambiguous explanations of the topics such as "spreading 'bad lifestyle', 
+spreading 'bad popular culture', 'non-mainstream view of love and marriage', 'the pessimistic outlook of millennials'" and etc.. Separate rules and much strict censorship 
+is applied to political topics - nobody can speak about government in bad contest, as well as discuss their historical mistakes. Content under this topic is forbidden since 
+it "breaks laws or spreads superstition or obscenity", or that "may jeopardize state security and disrupt social stability".
 
+While there are many thousand blocked keywords available online for China, we have tried to peek up the most popular once (for which probability of occurance is
+ higher in random Tweet/Post). 
+
+Sources of keywords: 
+https://citizenlab.ca/2014/12/repository-censored-sensitive-chinese-keywords-13-lists-9054-terms/
+https://blockedonweibo.tumblr.com/tagged/blockedword
+https://china-chats.net/keywords/
